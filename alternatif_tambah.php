@@ -1,5 +1,5 @@
 <div class="page-header">
-    <h1>Tambah Calon Penerima</h1>
+    <h1 style="font-size: 30px; font-weight:bold;">Tambah Calon Penerima</h1>
 </div>
 <div class="row">
     <div class="col-sm-6">
@@ -17,8 +17,16 @@
                 <textarea class="form-control" name="keterangan"><?=$_POST[keterangan]?></textarea>
             </div>
             <div class="form-group">
-                <button class="btn btn-primary"><span class="glyphicon glyphicon-save"></span> Simpan</button>
-                <a class="btn btn-danger" href="?m=alternatif"><span class="glyphicon glyphicon-arrow-left"></span> Kembali</a>
+                <button class="btn btn-primary" style="
+                background-color: #28A745;
+                background-image: none;
+                border: 2px solid #218838;
+                "><span class="glyphicon glyphicon-save"></span> Simpan</button>
+                <a class="btn btn-danger" href="?m=alternatif" style="
+                background-color: #FFC107;
+                background-image: none;
+                border: 2px solid #E0A800;
+                "><span class="glyphicon glyphicon-arrow-left"></span> Kembali</a>
             </div>
         </form>
     </div>

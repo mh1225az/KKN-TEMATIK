@@ -1,5 +1,8 @@
 <div class="page-header">
-    <h1 class="entry-title">SISTEM PENGAMBILAN KEPUTUSAN PENERIMA PROGRAM KELUARGA HARAPAN KELURAHAN KENDARI CADDI</h1>
+    <h1 class="entry-title" style="
+    text-align: center;
+    font-weight: bold;"
+    >SISTEM PENGAMBILAN KEPUTUSAN PENERIMA PROGRAM KELUARGA HARAPAN KELURAHAN KENDARI CADDI</h1>
 </div>
 <div class="entry-body">
 	<h3 class=" mt-3">APA ITU PROGRAM KELUARGA HARAPAN</h3>

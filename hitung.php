@@ -1,6 +1,6 @@
- <h4 class="page-head-line">PERHITUNGAN</h4>
-<div class="panel panel-primary">
-    <div class="panel-heading" style="background-color:aqua; border-color: white;">Masukan Nilai Kepentingan</div>
+ <h4 class="page-head-line" style="font-size: 30px; font-weight:bold;">PERHITUNGAN</h4>
+<div class="panel panel-primary" style="border-color: black;">
+    <div class="panel-heading" style="background-color:#28A745; border-color:white  ">Masukan Nilai Kepentingan</div>
     <div class="panel-body"> 
         <form class="form-inline" method="POST">
             <div class="table-responsive">
@@ -28,7 +28,11 @@
             </div>
         </div>
         <div class="panel-footer">
-            <button class="btn btn-primary"><span class="glyphicon glyphicon-ok"></span> Hitung</button>
+            <button class="btn btn-primary" style="
+            background-color: #28A745;
+            background-image: none;
+            border: 2px solid #218838;
+            "><span class="glyphicon glyphicon-ok"></span> Hitung</button>
         </div>
 
     </form>

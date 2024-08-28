@@ -11,7 +11,7 @@ if (empty($_SESSION['login']))
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="icon" href="favicon.ico" />
-  <title>SPK KENDARI CADDI</title>
+  <title>KKN TEMATIK KENDARI CADDI</title>
   <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
   <link href="assets/css/general.css" rel="stylesheet" />
   <script src="assets/js/jquery.min.js"></script>
@@ -20,7 +20,7 @@ if (empty($_SESSION['login']))
 
 <body>
 
-<nav class="navbar navbar-default navbar-static-top" style="background-color: #D3D3D3;">
+<nav class="navbar navbar-default navbar-static-top" style="background-color: #003366;">
     <div class="container">
       
       <div class="navbar-header">
@@ -55,7 +55,7 @@ if (empty($_SESSION['login']))
       include 'home.php';
     ?>
   </div>
-  <footer class="footer bg-primary" style="background-color: #87CEEB; color:black">
+  <footer class="footer bg-primary" style="background-color: #2F4F4F; color:white">
     <div class="container">
       <div class="row">
         <div class="col-md-6">

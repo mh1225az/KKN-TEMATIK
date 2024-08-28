@@ -1,5 +1,5 @@
 <div class="page-header">
-    <h1>Nilai Subkriteria</h1>
+    <h1 style="font-size: 30px; font-weight:bold;">Nilai Subkriteria</h1>
 </div>
 <div class="panel panel-default">
 <div class="panel-heading">
@@ -12,7 +12,12 @@
         </select>
     </div>
     <div class="form-group">
-        <a class="btn btn-primary" href="?m=subkriteria_tambah&kode_kriteria=<?=$_GET[kode_kriteria]?>" style="background-image:linear-gradient(#4da309, #469408 6%, #ff0000);"><span class="glyphicon glyphicon-plus"></span> Tambah</a>
+        <a class="btn btn-primary" href="?m=subkriteria_tambah&kode_kriteria=<?=$_GET[kode_kriteria]?>" style=
+        "background-color: #28A745;
+                background-image: none;
+                border: 2px solid #218838;
+                ;">
+        <span class="glyphicon glyphicon-plus"></span> Tambah</a>
     </div>
 </form>
 </div>

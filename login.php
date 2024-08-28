@@ -26,7 +26,7 @@
 </head>
 
 <body class="bg-gradient-primary" 
-style="background-image: url(foto1.jpg); 
+style="background-image: url(foto2.jpg); 
 background-size: 100% 100%; 
 background-repeat: no-repeat;
 background-position: center;

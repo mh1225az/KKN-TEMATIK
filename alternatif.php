@@ -1,4 +1,4 @@
- <h4 class="page-head-line">ALTERNATIF</h4>
+ <h4 class="page-head-line" style="font-size: 30px; font-weight:bold;">ALTERNATIF</h4>
 <div class="panel panel-default">
 <div class="panel-heading">
     <form class="form-inline">
@@ -7,10 +7,18 @@
             <input class="form-control" type="text" placeholder="Pencarian. . ." name="q" value="<?=$_GET['q']?>" />
         </div>
         <div class="form-group">
-            <button class="btn btn-success"><span class="glyphicon glyphicon-refresh"></span> Refresh</a>
+            <button class="btn btn-success" style="
+                background-color: #28A745;
+                background-image: none;
+                border: 2px solid #218838;">
+            <span class="glyphicon glyphicon-refresh"></span> Refresh</a>
         </div>
         <div class="form-group">
-            <a class="btn btn-primary" href="?m=alternatif_tambah"><span class="glyphicon glyphicon-plus"></span> Tambah</a>
+            <a class="btn btn-primary" href="?m=alternatif_tambah" style="
+                background-color: #FFC107;
+                background-image: none;
+                border: 2px solid #E0A800;
+            "><span class="glyphicon glyphicon-plus"></span> Tambah</a>
         </div>
     </form>
 </div>

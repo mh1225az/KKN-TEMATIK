@@ -1,5 +1,5 @@
 <div class="page-header">
-    <h1>Ubah Password</h1>
+    <h1 style="font-size: 30px; font-weight:bold;">Ubah Password</h1>
 </div>
 <div class="row">
     <div class="col-sm-5">
@@ -17,7 +17,11 @@
             <label>Konfirmasi Password Baru <span class="text-danger">*</span></label>
             <input class="form-control" type="password" name="pass3"/>
         </div>
-        <button class="btn btn-primary"><span class="glyphicon glyphicon-save"></span> Simpan</button>
+        <button class="btn btn-primary" style="
+                background-color: #28A745;
+                background-image: none;
+                border: 2px solid #218838;
+        "><span class="glyphicon glyphicon-save"></span> Simpan</button>
         </form>
     </div>
 </div>

@@ -1,4 +1,4 @@
- <h4 class="page-head-line">KRITERIA</h4>
+ <h4 class="page-head-line" style="font-size: 30px; font-weight:bold;"><b>KRITERIA</b></h4>
 <div class="panel panel-default">
     <div class="panel-heading">        
         <form class="form-inline">
@@ -7,10 +7,10 @@
                 <input class="form-control" type="text" placeholder="Pencarian. . ." name="q" value="<?=$_GET['q']?>" />
             </div>
             <div class="form-group">
-                <button class="btn btn-success" style="background-image:linear-gradient(#4da309, #469408 6%, #ff0000);"><span class="glyphicon glyphicon-refresh"></span> Refresh</a>
+                <button class="btn btn-success" style="background-image:linear-gradient(90deg, #28A745, #218838); border: 2px solid #218838;"><span class="glyphicon glyphicon-refresh"></span> Refresh</a>
             </div>
             <div class="form-group">
-                <a class="btn btn-primary" href="?m=kriteria_tambah" style="background-image:linear-gradient(#4da309, #469408 6%, #ff0000);"><span class="glyphicon glyphicon-plus"></span> Tambah</a> 
+                <a class="btn btn-primary" href="?m=kriteria_tambah" style="background-image:linear-gradient(90deg, #FFC107, #FF8C00); border: 2px solid #FF8C00;"><span class="glyphicon glyphicon-plus"></span> Tambah</a> 
             </div>
         </form>
     </div>
